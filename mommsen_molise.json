@@ -1,0 +1,607 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mommsen/immagini/rizzi_zannoni.png",
+          "type": "Image",
+          "x": 4,
+          "y": 84,
+          "scale": {
+            "x": 0.7235714285714285,
+            "y": 0.7235714285714285,
+            "width": 1013,
+            "height": 627.3364285714285
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 20,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 1224,
+      "y": 488
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 91,
+          "y": 255,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font face=\"Lato\"><b>Theodor Mommsen <br><div style=\"text-align: center;\"><b>in Molise</b></div></b></font>",
+          "selected": false
+        }
+      ],
+      "z": 700,
+      "impScale": 10,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 1151,
+      "y": 63
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 10,
+          "y": 39,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Caro Henzen!... I luoghi da noi visitati, <br>che ti scriverò in successione, sono ricchissimi, <br>a mio modesto parere, di iscrizioni, specialmente <br>quelli che ti sottolineo: Telese - Regino - Bojano - <br>Campobasso - Trivento - Agnone - ritorno <br>direzione Campobasso - Larino - S. Severo - <br>Foggia - Lucera - e ritorno direzione S. Severo, <br>poi Termoli - Montenero - Vasto — Passo <br>Lanciano - Ortona - Atri - Penne - Chieti. <br>Nell'insieme ho trovato più di quanto <br>mi aspettavo, quasi in ogni città abbiamo <br>trovato nuove iscrizioni».&nbsp;</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 1500,
+      "impScale": 10,
+      "rotateX": 0,
+      "rotateY": 1.57,
+      "rotateZ": -1.57,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 393,
+      "y": 513
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.png",
+          "type": "Image",
+          "x": 647,
+          "y": 56,
+          "scale": {
+            "x": 0.463035019455253,
+            "y": 0.463035019455253,
+            "width": 119.00000000000001,
+            "height": 70.38132295719845
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.png",
+          "type": "Image",
+          "x": 595,
+          "y": 228,
+          "scale": {
+            "x": 0.42023346303501946,
+            "y": 0.42023346303501946,
+            "width": 108,
+            "height": 63.87548638132296
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.png",
+          "type": "Image",
+          "x": 424,
+          "y": 438,
+          "scale": {
+            "x": 0.5136186770428016,
+            "y": 0.5136186770428016,
+            "width": 132.00000000000003,
+            "height": 78.07003891050584
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.png",
+          "type": "Image",
+          "x": 516,
+          "y": 94,
+          "scale": {
+            "x": 0.42023346303501946,
+            "y": 0.42023346303501946,
+            "width": 108,
+            "height": 63.87548638132296
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.png",
+          "type": "Image",
+          "x": 260,
+          "y": 233,
+          "scale": {
+            "x": 0.41245136186770426,
+            "y": 0.41245136186770426,
+            "width": 106,
+            "height": 62.69260700389105
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.png",
+          "type": "Image",
+          "x": 310,
+          "y": 503,
+          "scale": {
+            "x": 0.45136186770428016,
+            "y": 0.45136186770428016,
+            "width": 116,
+            "height": 68.60700389105058
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.png",
+          "type": "Image",
+          "x": 361,
+          "y": 269,
+          "scale": {
+            "x": 0.42801556420233466,
+            "y": 0.42801556420233466,
+            "width": 110.00000000000001,
+            "height": 65.05836575875487
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/immagini/firma.svg",
+          "type": "Image",
+          "x": 610,
+          "y": 517,
+          "scale": {
+            "width": 374.8652477011824,
+            "height": 266.70520311356523
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Agnone.png",
+          "type": "Image",
+          "x": 263,
+          "y": 244,
+          "scale": {
+            "x": 0.02882124352331606,
+            "y": 0.02882124352331606,
+            "width": 89,
+            "height": 45.162888601036265
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Trivento.png",
+          "type": "Image",
+          "x": 368,
+          "y": 284,
+          "scale": {
+            "x": 0.028857142857142862,
+            "y": 0.028857142857142862,
+            "width": 101.00000000000001,
+            "height": 33.18571428571429
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Montenero.png",
+          "type": "Image",
+          "x": 517,
+          "y": 111,
+          "scale": {
+            "x": 0.022737505628095452,
+            "y": 0.022737505628095452,
+            "width": 101,
+            "height": 24.44281855020261
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Termoli.png",
+          "type": "Image",
+          "x": 662,
+          "y": 73,
+          "scale": {
+            "x": 0.026133974166416444,
+            "y": 0.026133974166416444,
+            "width": 87.00000000000034,
+            "height": 34.94112346049879
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Larino.png",
+          "type": "Image",
+          "x": 606,
+          "y": 242,
+          "scale": {
+            "x": 0.02882882882882873,
+            "y": 0.02882882882882873,
+            "width": 79.99999999999972,
+            "height": 43.24324324324309
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Campobasso.png",
+          "type": "Image",
+          "x": 438,
+          "y": 451,
+          "scale": {
+            "x": 0.0279510279510279,
+            "y": 0.0279510279510279,
+            "width": 120.99999999999977,
+            "height": 55.426888426888326
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Bojano.png",
+          "type": "Image",
+          "x": 307,
+          "y": 515,
+          "scale": {
+            "x": 0.032082324455205806,
+            "y": 0.032082324455205806,
+            "width": 105.99999999999999,
+            "height": 53.73789346246973
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 20,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 1221,
+      "y": 483
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 216,
+          "y": 265,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\"><b>31 luglio 1845\r<br></b></font>Da Chieti a Napoli<br>",
+          "selected": false
+        }
+      ],
+      "z": 1000,
+      "impScale": 10,
+      "rotateX": 0,
+      "rotateY": -1.57,
+      "rotateZ": 1.57,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 2023,
+      "y": 504
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": -1,
+          "y": 72,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Il 31 studiato le iscrizioni&nbsp;di Chieti: <br>a mezzogiorno dall’arcivescovo. <br>Di sera alla volta di Popoli, poi con il corriere, <br>passando per Sulmona (mezzanotte), <br>Castel di Sangro (mattino), <br>Isernia (deserta, grigia zona collinare), <br>Venafro (fra magnifici uliveti, da qui poi la regione <br>diventa più amena), <br>Capua – posta senza attrattive in pianura – <br>a Napoli».</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 1500,
+      "impScale": 10,
+      "rotateX": 1.57,
+      "rotateY": 0,
+      "rotateZ": 3.14,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1220,
+      "y": 918
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.svg",
+          "type": "Image",
+          "x": 245,
+          "y": 345,
+          "scale": {
+            "width": 291.3119893232981,
+            "height": 146.5178644525464
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.svg",
+          "type": "Image",
+          "x": -12,
+          "y": 517,
+          "scale": {
+            "width": 277.9290461286819,
+            "height": 138.4479263243248
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Isernia.png",
+          "type": "Image",
+          "x": 286,
+          "y": 377,
+          "scale": {
+            "x": 0.07140462621521958,
+            "y": 0.07140462621521958,
+            "width": 213,
+            "height": 69.33389205497821
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Venafro.png",
+          "type": "Image",
+          "x": 39,
+          "y": 541,
+          "scale": {
+            "x": 0.071173104434907,
+            "y": 0.071173104434907,
+            "width": 198.99999999999997,
+            "height": 103.7703862660944
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 10,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 861,
+      "y": 559
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.svg",
+          "type": "Image",
+          "x": 256,
+          "y": 166,
+          "scale": {
+            "width": 528.0174000609416,
+            "height": 264.6962226868001
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Pietrabbondante.png",
+          "type": "Image",
+          "x": 312,
+          "y": 229,
+          "scale": {
+            "x": 0.07341176470588237,
+            "y": 0.07341176470588237,
+            "width": 468.0000000000001,
+            "height": 107.40141176470591
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 927,
+      "y": 448
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 6,
+          "y": 199,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">«...siamo i primi stranieri <br>ad aver visitato questo nido roccioso <br>dove si trova ben conservato <br>un teatro...».</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 100,
+      "impScale": 3,
+      "rotateX": -0.53,
+      "rotateY": -0.54,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 701,
+      "y": 405
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.svg",
+          "type": "Image",
+          "x": 259,
+          "y": 232,
+          "scale": {
+            "width": 525.3536847554352,
+            "height": 262.6768423777176
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Altilia.png",
+          "type": "Image",
+          "x": 287,
+          "y": 265,
+          "scale": {
+            "x": 0.1490909090909091,
+            "y": 0.1490909090909091,
+            "width": 410.00000000000006,
+            "height": 192.02909090909094
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": true,
+      "active": true,
+      "x": 1126,
+      "y": 752
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 14,
+          "y": 99,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\">«Ogni reporter; giornalista italiano dovrebbe visitare <b>Altilia</b>, <br>i cui resti o ruderi, qui sono così ben conservati, che non vi è <br>città italiana che possieda simili cose. <br>Tutto l'agro è ancora intatto, tutte le porte della Città, <br>una di esse ha ancora l'arco intero... <br>Il teatro in Altilia è ben conservato, la strada principale è <br>ancora lastricata da enormi pietre, è completa, ci sono molti <br>mucchi di pietre delle quali è riconoscibile la loro provenienza <br>da edifici e templi e, quanto altro sta nella terra <b>è indescrivibile!</b> <br>Macerie ed iscrizioni sono sparse dovunque, lo stesso dicasi <br>per grandi mucchi di pietre vicino a grosse querce, <br>come dappertutto vi sono colonne. <br><b>È questo un luogo unico!</b>».</font><br>",
+          "selected": false
+        }
+      ],
+      "z": -200,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1142,
+      "y": 852
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.svg",
+        "type": "Image",
+        "x": 259,
+        "y": 232,
+        "scale": {
+          "width": 525.3536847554352,
+          "height": 262.6768423777176
+        },
+        "imageType": "SVG",
+        "selected": false
+      },
+      {
+        "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Altilia.png",
+        "type": "Image",
+        "x": 287,
+        "y": 265,
+        "scale": {
+          "x": 0.1490909090909091,
+          "y": 0.1490909090909091,
+          "width": 410.00000000000006,
+          "height": 192.02909090909094
+        },
+        "imageType": "PNG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 5,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 9,
+    "selected": true,
+    "active": true,
+    "x": 1126,
+    "y": 752
+  },
+  "fileName": "mommsen_molise",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  }
+}
