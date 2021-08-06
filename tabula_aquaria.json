@@ -1,0 +1,301 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mommsen/immagini/carta_officio_borbonico.png",
+          "type": "Image",
+          "x": -274,
+          "y": -38,
+          "scale": {
+            "x": 0.6684135302525012,
+            "y": 0.6684135302525012,
+            "width": 1403,
+            "height": 1123.6031443544546
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 15,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 839,
+      "y": 349,
+      "markdown": "",
+      "background": "bg-transparent"
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.svg",
+          "type": "Image",
+          "x": -30,
+          "y": 187,
+          "scale": {
+            "width": 266.2760281746114,
+            "height": 133.1380140873057
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/mommsen_files/venafro.png",
+          "type": "Image",
+          "x": -60,
+          "y": 195,
+          "scale": {
+            "x": 0.2027594481103779,
+            "y": 0.2027594481103779,
+            "width": 338,
+            "height": 126.7246550689862
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 15,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 812,
+      "y": 348
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 39,
+          "y": 77,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\"><b>1846</b>\n<br>Mommsen arriva a Venafro \n<br>per studiare le epigrafi romane \n<br>presenti in città.\n<br>Sarà ospitato da \n<br>«dotti Venafrani, della cui \n<br>gentilissima accoglienza serbo \n<br>per altro gratissimo ricordo».<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 1000,
+      "impScale": 2,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "background": "bg-transparent",
+      "x": 617,
+      "y": 499
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.svg",
+          "type": "Image",
+          "x": 121,
+          "y": 10,
+          "scale": {
+            "width": 601.1235533459521,
+            "height": 300.1827580390883
+          },
+          "imageType": "SVG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mommsen/mommsen_files/masseria.png",
+          "type": "Image",
+          "x": 162,
+          "y": 57,
+          "scale": {
+            "x": 0.29994001199760045,
+            "y": 0.29994001199760045,
+            "width": 499.99999999999994,
+            "height": 187.4625074985003
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 2000,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": true,
+      "active": true,
+      "x": 1137,
+      "y": 147
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 3,
+          "y": 113,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">«Sullo scoprimento della pietra, <br>che sta&nbsp;fuori Venafro murata <br>in casa di campagna, poche cose <br>accennerò.<br>[Della] notizia di essa sono debitore<br>ad un ragazzino che mi servì di&nbsp;<br>guida, buon giovane, ma poco dotto.»<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 2000,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1113,
+      "y": 266
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 16,
+          "y": 78,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Avendola trovata, vi portai io&nbsp;i colti <br>sigg. Venafrani, ed alle loro istanze, <br>unite alle mie, il proprietario&nbsp;fece <br>levare alcune pietre della soglia <br>murata, che cuopriva la maggior <br>parte dello scritto; però non ottenni<br>più dello spazio strettamente necessario<br>per mettermi accanto al sasso trasversalmente<br>fabbricato, in una specie di fossa. Così la pulii<br>e la trascrissi, nella posizione più disagiata<br>che possa immaginarsi, in un luogo bujo affatto.»<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 1100,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 1.57,
+      "rotateZ": -1.57,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 794,
+      "y": 162
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 4,
+          "y": 152,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\"><b>Cosmo De Utris</b>,<br>morto nel 1834,&nbsp;nel suo manoscritto&nbsp;<br>intitolato \"L'antica Venafro\"<br>aveva già visto la <b>Tavola Acquaria</b>&nbsp;<br>trascrivendo la parte in vista.<br><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 2700,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 1326,
+      "y": 586,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 8,
+          "y": 177,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">Merito di Mommsen è quello di aver<br>compreso per primo il valore storico<br>del «sasso venafrano», «un illustre <br>esempio di legge d'acquidotto <br>municipale dell'aureo secolo.»</font>",
+          "selected": false
+        }
+      ],
+      "z": 1500,
+      "impScale": 2,
+      "rotateX": -1.58,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1305,
+      "y": 496,
+      "background": "bg-transparent"
+    }
+  ],
+  "background": "bg-transparent",
+  "activeSlide": {
+    "components": [
+      {
+        "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.svg",
+        "type": "Image",
+        "x": 121,
+        "y": 10,
+        "scale": {
+          "width": 601.1235533459521,
+          "height": 300.1827580390883
+        },
+        "imageType": "SVG",
+        "selected": false
+      },
+      {
+        "src": "https://ar3d.github.io/mommsen/mommsen_files/masseria.png",
+        "type": "Image",
+        "x": 162,
+        "y": 57,
+        "scale": {
+          "x": 0.29994001199760045,
+          "y": 0.29994001199760045,
+          "width": 499.99999999999994,
+          "height": 187.4625074985003
+        },
+        "imageType": "PNG",
+        "selected": false
+      }
+    ],
+    "z": 2000,
+    "impScale": 2,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 3,
+    "selected": true,
+    "active": true,
+    "x": 1137,
+    "y": 147
+  },
+  "fileName": "mommsen",
+  "surface": "bg-default",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 1208,
+  "overviewY": 490.5
+}
