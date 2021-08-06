@@ -226,15 +226,15 @@
           "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Montenero.png",
           "type": "Image",
           "x": 517,
-          "y": 111,
+          "y": 107,
           "scale": {
-            "x": 0.024988743809095004,
-            "y": 0.024988743809095004,
-            "width": 111,
-            "height": 26.86289959477713
+            "x": 0.028365601080594327,
+            "y": 0.028365601080594327,
+            "width": 126,
+            "height": 30.4930211616389
           },
           "imageType": "PNG",
-          "selected": false
+          "selected": true
         },
         {
           "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Termoli.png",
@@ -290,7 +290,7 @@
             "height": 53.73789346246973
           },
           "imageType": "PNG",
-          "selected": true
+          "selected": false
         }
       ],
       "z": 0,
@@ -703,15 +703,15 @@
         "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Montenero.png",
         "type": "Image",
         "x": 517,
-        "y": 111,
+        "y": 107,
         "scale": {
-          "x": 0.024988743809095004,
-          "y": 0.024988743809095004,
-          "width": 111,
-          "height": 26.86289959477713
+          "x": 0.028365601080594327,
+          "y": 0.028365601080594327,
+          "width": 126,
+          "height": 30.4930211616389
         },
         "imageType": "PNG",
-        "selected": false
+        "selected": true
       },
       {
         "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Termoli.png",
@@ -767,7 +767,7 @@
           "height": 53.73789346246973
         },
         "imageType": "PNG",
-        "selected": true
+        "selected": false
       }
     ],
     "z": 0,
