@@ -23,8 +23,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 839,
       "y": 349,
       "markdown": "",
@@ -133,8 +133,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 3,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 1137,
       "y": 147
     },
@@ -142,15 +142,15 @@
       "components": [
         {
           "TextBox": {},
-          "x": 3,
-          "y": 113,
+          "x": 2,
+          "y": 112,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
           "size": 64,
-          "text": "<font face=\"Lato\">«Sullo scoprimento della pietra, <br>che sta&nbsp;fuori Venafro murata <br>in casa di campagna, poche cose <br>accennerò.<br>[Della] notizia di essa sono debitore<br>ad un ragazzino che mi servì di&nbsp;<br>guida, buon giovane, ma poco dotto.»<br></font>",
+          "text": "<font face=\"Lato\">«Sullo scoprimento della pietra, <br>che sta&nbsp;fuori Venafro murata <br>in casa di campagna, poche cose <br>accennerò.<br>[Della] notizia di essa sono debitore<br>ad un ragazzino che mi servì di&nbsp;<br>guida, buon giovane, ma poco dotto».<br></font>",
           "selected": false
         }
       ],
@@ -177,7 +177,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Avendola trovata, vi portai io&nbsp;i colti <br>sigg. Venafrani, ed alle loro istanze, <br>unite alle mie, il proprietario&nbsp;fece <br>levare alcune pietre della soglia <br>murata, che cuopriva la maggior <br>parte dello scritto; però non ottenni<br>più dello spazio strettamente necessario<br>per mettermi accanto al sasso trasversalmente<br>fabbricato, in una specie di fossa. Così la pulii<br>e la trascrissi, nella posizione più disagiata<br>che possa immaginarsi, in un luogo bujo affatto.»<br></font>",
+          "text": "<font face=\"Lato\">«Avendola trovata, vi portai io&nbsp;i colti <br>sigg. Venafrani, ed alle loro istanze, <br>unite alle mie, il proprietario&nbsp;fece <br>levare alcune pietre della soglia <br>murata, che cuopriva la maggior <br>parte dello scritto; però non ottenni<br>più dello spazio strettamente necessario<br>per mettermi accanto al sasso trasversalmente<br>fabbricato, in una specie di fossa. Così la pulii<br>e la trascrissi, nella posizione più disagiata<br>che possa immaginarsi, in un luogo bujo affatto».<br></font>",
           "selected": false
         }
       ],
@@ -232,7 +232,7 @@
           },
           "type": "TextBox",
           "size": 64,
-          "text": "<font face=\"Lato\">Merito di Mommsen è quello di aver<br>compreso per primo il valore storico<br>del «sasso venafrano», «un illustre <br>esempio di legge d'acquidotto <br>municipale dell'aureo secolo.»</font>",
+          "text": "<font face=\"Lato\">Merito di Mommsen è quello di aver<br>compreso per primo il valore storico<br>del «sasso venafrano», «un illustre <br>esempio di legge d'acquidotto <br>municipale dell'aureo secolo».</font>",
           "selected": false
         }
       ],
@@ -253,42 +253,32 @@
   "activeSlide": {
     "components": [
       {
-        "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.svg",
+        "src": "https://ar3d.github.io/mommsen/immagini/carta_officio_borbonico.png",
         "type": "Image",
-        "x": 121,
-        "y": 10,
+        "x": -274,
+        "y": -38,
         "scale": {
-          "width": 601.1235533459521,
-          "height": 300.1827580390883
-        },
-        "imageType": "SVG",
-        "selected": false
-      },
-      {
-        "src": "https://ar3d.github.io/mommsen/mommsen_files/masseria.png",
-        "type": "Image",
-        "x": 162,
-        "y": 57,
-        "scale": {
-          "x": 0.29994001199760045,
-          "y": 0.29994001199760045,
-          "width": 499.99999999999994,
-          "height": 187.4625074985003
+          "x": 0.6684135302525012,
+          "y": 0.6684135302525012,
+          "width": 1403,
+          "height": 1123.6031443544546
         },
         "imageType": "PNG",
         "selected": false
       }
     ],
-    "z": 2000,
-    "impScale": 2,
+    "z": 0,
+    "impScale": 15,
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 3,
+    "index": 0,
     "selected": true,
     "active": true,
-    "x": 1137,
-    "y": 147
+    "x": 839,
+    "y": 349,
+    "markdown": "",
+    "background": "bg-transparent"
   },
   "fileName": "mommsen",
   "surface": "bg-default",
