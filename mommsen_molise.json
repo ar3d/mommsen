@@ -23,8 +23,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 1224,
       "y": 488
     },
@@ -234,7 +234,7 @@
             "height": 30.4930211616389
           },
           "imageType": "PNG",
-          "selected": true
+          "selected": false
         },
         {
           "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Termoli.png",
@@ -299,8 +299,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 3,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 1221,
       "y": 483
     },
@@ -535,15 +535,15 @@
       "components": [
         {
           "TextBox": {},
-          "x": 14,
-          "y": 99,
+          "x": 4,
+          "y": 35,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "size": 36,
-          "text": "<font face=\"Lato\">«Ogni reporter; giornalista italiano dovrebbe visitare <b>Altilia</b>, <br>i cui resti o ruderi, qui sono così ben conservati, che non vi è <br>città italiana che possieda simili cose. <br>Tutto l'agro è ancora intatto, tutte le porte della Città, <br>una di esse ha ancora l'arco intero... <br>Il teatro in Altilia è ben conservato, la strada principale è <br>ancora lastricata da enormi pietre, è completa, ci sono molti <br>mucchi di pietre delle quali è riconoscibile la loro provenienza <br>da edifici e templi e, quanto altro sta nella terra <b>è indescrivibile!</b> <br>Macerie ed iscrizioni sono sparse dovunque, lo stesso dicasi <br>per grandi mucchi di pietre vicino a grosse querce, <br>come dappertutto vi sono colonne. <br><b>È questo un luogo unico!</b>».</font><br>",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Ogni reporter, giornalista italiano dovrebbe <br>visitare <b>Altilia</b>,&nbsp;i cui resti o ruderi, qui sono così <br>ben conservati, che non vi è&nbsp;città italiana che <br>possieda simili cose.&nbsp;Tutto l'agro è ancora intatto, <br>tutte le porte della Città,&nbsp;una di esse ha ancora <br>l'arco intero... <br>Il teatro in Altilia è ben conservato, la strada <br>principale è&nbsp;ancora lastricata da enormi pietre, <br>è completa, ci sono molti&nbsp;mucchi di pietre delle <br>quali è riconoscibile la loro provenienza&nbsp;da edifici <br>e templi e, quanto altro sta nella terra <b>è <br>indescrivibile!</b>».</font><br>",
           "selected": false
         }
       ],
@@ -562,209 +562,15 @@
   "activeSlide": {
     "components": [
       {
-        "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.png",
+        "src": "https://ar3d.github.io/mommsen/immagini/rizzi_zannoni.png",
         "type": "Image",
-        "x": 647,
-        "y": 56,
+        "x": 4,
+        "y": 84,
         "scale": {
-          "x": 0.463035019455253,
-          "y": 0.463035019455253,
-          "width": 119.00000000000001,
-          "height": 70.38132295719845
-        },
-        "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.png",
-        "type": "Image",
-        "x": 595,
-        "y": 228,
-        "scale": {
-          "x": 0.42023346303501946,
-          "y": 0.42023346303501946,
-          "width": 108,
-          "height": 63.87548638132296
-        },
-        "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.png",
-        "type": "Image",
-        "x": 424,
-        "y": 438,
-        "scale": {
-          "x": 0.5136186770428016,
-          "y": 0.5136186770428016,
-          "width": 132.00000000000003,
-          "height": 78.07003891050584
-        },
-        "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.png",
-        "type": "Image",
-        "x": 516,
-        "y": 94,
-        "scale": {
-          "x": 0.42023346303501946,
-          "y": 0.42023346303501946,
-          "width": 108,
-          "height": 63.87548638132296
-        },
-        "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.png",
-        "type": "Image",
-        "x": 260,
-        "y": 233,
-        "scale": {
-          "x": 0.41245136186770426,
-          "y": 0.41245136186770426,
-          "width": 106,
-          "height": 62.69260700389105
-        },
-        "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.png",
-        "type": "Image",
-        "x": 310,
-        "y": 503,
-        "scale": {
-          "x": 0.45136186770428016,
-          "y": 0.45136186770428016,
-          "width": 116,
-          "height": 68.60700389105058
-        },
-        "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.png",
-        "type": "Image",
-        "x": 361,
-        "y": 269,
-        "scale": {
-          "x": 0.42801556420233466,
-          "y": 0.42801556420233466,
-          "width": 110.00000000000001,
-          "height": 65.05836575875487
-        },
-        "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "src": "https://ar3d.github.io/mommsen/immagini/firma.svg",
-        "type": "Image",
-        "x": 610,
-        "y": 517,
-        "scale": {
-          "width": 374.8652477011824,
-          "height": 266.70520311356523
-        },
-        "imageType": "SVG",
-        "selected": false
-      },
-      {
-        "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Agnone.png",
-        "type": "Image",
-        "x": 263,
-        "y": 244,
-        "scale": {
-          "x": 0.02882124352331606,
-          "y": 0.02882124352331606,
-          "width": 89,
-          "height": 45.162888601036265
-        },
-        "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Trivento.png",
-        "type": "Image",
-        "x": 368,
-        "y": 284,
-        "scale": {
-          "x": 0.028857142857142862,
-          "y": 0.028857142857142862,
-          "width": 101.00000000000001,
-          "height": 33.18571428571429
-        },
-        "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Montenero.png",
-        "type": "Image",
-        "x": 517,
-        "y": 107,
-        "scale": {
-          "x": 0.028365601080594327,
-          "y": 0.028365601080594327,
-          "width": 126,
-          "height": 30.4930211616389
-        },
-        "imageType": "PNG",
-        "selected": true
-      },
-      {
-        "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Termoli.png",
-        "type": "Image",
-        "x": 662,
-        "y": 73,
-        "scale": {
-          "x": 0.026133974166416444,
-          "y": 0.026133974166416444,
-          "width": 87.00000000000034,
-          "height": 34.94112346049879
-        },
-        "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Larino.png",
-        "type": "Image",
-        "x": 606,
-        "y": 242,
-        "scale": {
-          "x": 0.02882882882882873,
-          "y": 0.02882882882882873,
-          "width": 79.99999999999972,
-          "height": 43.24324324324309
-        },
-        "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Campobasso.png",
-        "type": "Image",
-        "x": 438,
-        "y": 451,
-        "scale": {
-          "x": 0.0279510279510279,
-          "y": 0.0279510279510279,
-          "width": 120.99999999999977,
-          "height": 55.426888426888326
-        },
-        "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "src": "https://ar3d.github.io/mommsen/mommsen_molise_files/Bojano.png",
-        "type": "Image",
-        "x": 314,
-        "y": 515,
-        "scale": {
-          "x": 0.032082324455205806,
-          "y": 0.032082324455205806,
-          "width": 105.99999999999999,
-          "height": 53.73789346246973
+          "x": 0.7235714285714285,
+          "y": 0.7235714285714285,
+          "width": 1013,
+          "height": 627.3364285714285
         },
         "imageType": "PNG",
         "selected": false
@@ -775,17 +581,17 @@
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 3,
+    "index": 0,
     "selected": true,
     "active": true,
-    "x": 1221,
-    "y": 483
+    "x": 1224,
+    "y": 488
   },
   "fileName": "mommsen_molise",
   "deckVersion": "1.0",
   "customBackgrounds": {
     "bgs": []
   },
-  "overviewX": 1208,
-  "overviewY": 490.5
+  "overviewX": 1078.5,
+  "overviewY": 281
 }
