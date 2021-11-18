@@ -67,7 +67,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Caro Henzen!... I luoghi da noi visitati, <br>che ti scriverò in successione, sono ricchissimi, <br>a mio modesto parere, di iscrizioni, specialmente <br>quelli che ti sottolineo: Telese - Regino - Bojano - <br>Campobasso - Trivento - Agnone - ritorno <br>direzione Campobasso - Larino - S. Severo - <br>Foggia - Lucera - e ritorno direzione S. Severo, <br>poi Termoli - Montenero - Vasto — Passo <br>Lanciano - Ortona - Atri - Penne - Chieti. <br>Nell'insieme ho trovato più di quanto <br>mi aspettavo, quasi in ogni città abbiamo <br>trovato nuove iscrizioni».&nbsp;</font><br>",
+          "text": "<font face=\"Lato\">«Caro Henzen! [...] I luoghi da noi visitati, <br>che ti scriverò in successione, sono ricchissimi, <br>a mio modesto parere, di iscrizioni, specialmente <br>quelli che ti sottolineo: Telese - Regino - Bojano - <br>Campobasso - Trivento - Agnone - ritorno <br>direzione Campobasso - Larino - S. Severo - <br>Foggia - Lucera - e ritorno direzione S. Severo, <br>poi Termoli - Montenero - Vasto - Passo <br>Lanciano - Ortona - Atri - Penne - Chieti. <br>Nell'insieme ho trovato più di quanto <br>mi aspettavo, quasi in ogni città abbiamo <br>trovato nuove iscrizioni».&nbsp;</font><br>",
           "selected": false
         }
       ],
@@ -476,7 +476,7 @@
           },
           "type": "TextBox",
           "size": 64,
-          "text": "<font face=\"Lato\">«...siamo i primi stranieri <br>ad aver visitato questo nido roccioso <br>dove si trova ben conservato <br>un teatro...».</font><br>",
+          "text": "<font face=\"Lato\">«[...] siamo i primi stranieri <br>ad aver visitato questo nido roccioso <br>dove si trova ben conservato <br>un teatro [...]».</font><br>",
           "selected": false
         }
       ],
@@ -543,7 +543,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Ogni reporter, giornalista italiano dovrebbe <br>visitare <b>Altilia</b>,&nbsp;i cui resti o ruderi, qui sono così <br>ben conservati, che non vi è&nbsp;città italiana che <br>possieda simili cose.&nbsp;Tutto l'agro è ancora intatto, <br>tutte le porte della Città,&nbsp;una di esse ha ancora <br>l'arco intero... <br>Il teatro in Altilia è ben conservato, la strada <br>principale è&nbsp;ancora lastricata da enormi pietre, <br>è completa, ci sono molti&nbsp;mucchi di pietre delle <br>quali è riconoscibile la loro provenienza&nbsp;da edifici <br>e templi e, quanto altro sta nella terra <b>è <br>indescrivibile!</b>».</font><br>",
+          "text": "<font face=\"Lato\">«Ogni reporter, giornalista italiano dovrebbe <br>visitare <b>Altilia</b>,&nbsp;i cui resti o ruderi, qui sono così <br>ben conservati, che non vi è&nbsp;città italiana che <br>possieda simili cose.&nbsp;Tutto l'agro è ancora intatto, <br>tutte le porte della Città,&nbsp;una di esse ha ancora <br>l'arco intero [...].<br>Il teatro in Altilia è ben conservato, la strada <br>principale è&nbsp;ancora lastricata da enormi pietre, <br>è completa, ci sono molti&nbsp;mucchi di pietre delle <br>quali è riconoscibile la loro provenienza&nbsp;da edifici <br>e templi e, quanto altro sta nella terra <b>è <br>indescrivibile!</b>».</font><br>",
           "selected": false
         }
       ],
@@ -592,6 +592,6 @@
   "customBackgrounds": {
     "bgs": []
   },
-  "overviewX": 1078.5,
-  "overviewY": 281
+  "overviewX": 1208,
+  "overviewY": 490.5
 }

@@ -23,8 +23,8 @@
       "rotateY": 0.7,
       "rotateZ": 0,
       "index": 0,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "surface": "bg-default",
       "x": 951,
       "y": 369
@@ -190,7 +190,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Questo non è possibile nella nostra nazione \n<br></font>nella quale il singolo, e sia pure il migliore, \n<br>non trascende il servizio nelle file \n<br>e il feticismo politico. \n<br>Questo straniamento interno dal popolo \n<br>a cui appartengo, mi ha indotto, \n<br>in tutto e per tutto a non presentarmi \n<br>con la mia personalità, \n<br>per quanto mi fosse in qualsiasi modo possibile, \n<br>dinanzi al popolo tedesco, che non stimo».<br>",
+          "text": "<font face=\"Lato\">«Questo non è possibile nella nostra nazione \n<br></font>nella quale il singolo, e sia pure il migliore, \n<br>non trascende [...]&nbsp;il feticismo politico. \n<br>Questo straniamento interno dal popolo \n<br>a cui appartengo, mi ha indotto, \n<br>in tutto e per tutto a non presentarmi \n<br>con la mia personalità, \n<br>per quanto mi fosse in qualsiasi modo possibile, \n<br>dinanzi al popolo tedesco, che non stimo».<br>",
           "selected": false
         }
       ],
@@ -217,7 +217,7 @@
           },
           "type": "TextBox",
           "size": 72,
-          "text": "<font face=\"Lato\">«Io desidero che <br>anche dopo la mia morte <br>questo non si dia da fare <br>con la mia individualità».</font><br>",
+          "text": "<font face=\"Lato\">«Io desidero che <br>anche dopo la mia morte <br>[il popolo tedesco] non si <br>dia da fare&nbsp;con la mia <br>individualità».</font><br>",
           "selected": false
         }
       ],
@@ -254,8 +254,8 @@
       "rotateY": 0.92,
       "rotateZ": 0,
       "index": 8,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 1541,
       "y": 215
     }
@@ -263,35 +263,35 @@
   "activeSlide": {
     "components": [
       {
-        "src": "https://ar3d.github.io/mommsen/immagini/tomba_mommsen.png",
-        "type": "Image",
-        "x": -62,
-        "y": -16,
+        "TextBox": {},
+        "x": 10,
+        "y": 35,
         "scale": {
-          "x": 1.0955734406438633,
-          "y": 1.0955734406438633,
-          "width": 1089.0000000000002,
-          "height": 821.6800804828974
+          "x": 1,
+          "y": 1
         },
-        "imageType": "PNG",
+        "type": "TextBox",
+        "size": 96,
+        "text": "<font face=\"Lato\"><b>«Si leggano pure <br>i miei libri, <br>finché durano; <br>quello che io sono stato <br>o sarei dovuto essere, <br>non riguarda la gente».</b></font><br>",
         "selected": false
       }
     ],
     "z": 0,
-    "impScale": 8,
+    "impScale": 6,
     "rotateX": 0,
-    "rotateY": 0.7,
+    "rotateY": 0.92,
     "rotateZ": 0,
-    "index": 0,
+    "index": 8,
     "selected": true,
     "active": true,
-    "surface": "bg-default",
-    "x": 951,
-    "y": 369
+    "x": 1541,
+    "y": 215
   },
   "fileName": "testamento_mommsen",
   "deckVersion": "1.0",
   "customBackgrounds": {
     "bgs": []
-  }
+  },
+  "overviewX": 1078.5,
+  "overviewY": 281
 }

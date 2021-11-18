@@ -23,8 +23,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 839,
       "y": 349,
       "markdown": "",
@@ -242,8 +242,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 7,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 1305,
       "y": 496,
       "background": "bg-transparent"
@@ -253,31 +253,29 @@
   "activeSlide": {
     "components": [
       {
-        "src": "https://ar3d.github.io/mommsen/immagini/carta_officio_borbonico.png",
-        "type": "Image",
-        "x": -274,
-        "y": -38,
+        "TextBox": {},
+        "x": 8,
+        "y": 177,
         "scale": {
-          "x": 0.6684135302525012,
-          "y": 0.6684135302525012,
-          "width": 1403,
-          "height": 1123.6031443544546
+          "x": 1,
+          "y": 1
         },
-        "imageType": "PNG",
+        "type": "TextBox",
+        "size": 64,
+        "text": "<font face=\"Lato\">Merito di Mommsen è quello di aver<br>compreso per primo il valore storico<br>del «sasso venafrano», «un illustre <br>esempio di legge d'acquidotto <br>municipale dell'aureo secolo».</font>",
         "selected": false
       }
     ],
-    "z": 0,
-    "impScale": 15,
-    "rotateX": 0,
+    "z": 1500,
+    "impScale": 2,
+    "rotateX": -1.58,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 0,
+    "index": 7,
     "selected": true,
     "active": true,
-    "x": 839,
-    "y": 349,
-    "markdown": "",
+    "x": 1305,
+    "y": 496,
     "background": "bg-transparent"
   },
   "fileName": "mommsen",
@@ -286,6 +284,6 @@
   "customBackgrounds": {
     "bgs": []
   },
-  "overviewX": 1208,
-  "overviewY": 490.5
+  "overviewX": 971.5,
+  "overviewY": 366.5
 }
